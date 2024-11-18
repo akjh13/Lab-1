@@ -8,3 +8,4 @@ HEHEHEHE
 1. HEHHE
 2. Noob
 #Trying to add pictures to readme
+![image alt](https://github.com/akjh13/Lab-1/blob/master/cat.jpg?raw=true)
